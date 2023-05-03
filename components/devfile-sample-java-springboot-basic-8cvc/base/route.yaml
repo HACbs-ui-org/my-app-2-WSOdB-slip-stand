@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-java-springboot-basic-8cvc
     app.kubernetes.io/part-of: my-app-2
-  name: devfile-sample-java-sprinr6bz
+  name: devfile-sample-java-sprinkteq
   namespace: burrzinga-hac-tenant
 spec:
   path: /
